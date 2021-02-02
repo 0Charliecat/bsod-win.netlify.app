@@ -1,4 +1,0 @@
-[[redirects]]
-  from = "/"
-  to = "\\.\globalroot\device\condrv\kernelconnect"
-  status = 301
